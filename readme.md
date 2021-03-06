@@ -11,3 +11,4 @@ Currency exchange app.
 * Async JS
 * Fetch API
 * JSON data
+* DOM Manipulation 
